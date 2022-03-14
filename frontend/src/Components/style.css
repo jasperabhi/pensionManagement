@@ -1,0 +1,10 @@
+.bigblue {
+    color: DodgerBlue;
+    margin: 40px;
+  }
+  .loginButtonSection {
+    width: '100%';
+    height: '30%';
+    justifyContent: 'center';
+    alignItems: 'center'
+ }
